@@ -224,7 +224,7 @@ ${NC}
 \t   DECENOMY Multinode Script
 \t *****************************\n"
  echo -e "${GREEN}$COIN_NAME Masternode Multinode is up and running${NC}"
- echo -e "Configuration file is: ${RED}$CONFIGFOLDER/$CONFIG_FILE${NC}"
+ echo -e "Config file is: ${RED}$CONFIGFOLDER/$CONFIG_FILE${NC}"
  echo -e "Start:  ${RED}systemctl start $COIN_NAME.service${NC} to start service."
  echo -e "Stop:   ${NC}${RED}systemctl stop $COIN_NAME.service${NC} to stop service."
  echo -e "Use:    ${RED}$COIN_CLI getmasternodestatus${NC} to check your MN Status."
