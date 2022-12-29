@@ -1,6 +1,5 @@
 ![Logo](https://cdn.discordapp.com/attachments/1057646100225462303/1057680243198001303/Decenomy_multinode_guide.png)
 
-<html><head><meta name="color-scheme" content="light dark"></head><body data-new-gr-c-s-check-loaded="14.1026.0" data-gr-ext-installed=""><pre style="word-wrap: break-word; white-space: pre-wrap;">15096</pre></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
 
 # FLS MN Multinode Setup Guide ( GNU/Linux 64bit system )
 ***
